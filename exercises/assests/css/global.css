@@ -18,11 +18,14 @@ input, button, textarea, select { font: inherit }
  @media (max-width: 767px) {
     body { padding: 8% 5% }
  }
+ body { background-color: lightgreen; }
+ 
 /* ================= ENDS ================ */
 
 body {
     text-align: center;
     font-family: sans-serif;
+    
 }
 
 h1 {
@@ -52,4 +55,4 @@ p {
     font-size: 20px;
     margin-bottom: 16px;
 }
-
+a { color: darkgreen; }
