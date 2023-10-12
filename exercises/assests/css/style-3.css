@@ -10,7 +10,9 @@ img { width: 100%; height: auto; display: block }
 input, button, textarea, select { font: inherit }
 
 /* ====== PADDING AROUND WEB PAGE BODY CONTENT ======  */
+
 body { background-color: lightblue; }
+
 /* Desktops */
 @media (min-width: 768px) {
     section { padding: 4% 20% }
@@ -37,3 +39,30 @@ p {
     margin-bottom: 16px
 }
 a { color: blue; }
+
+.section-1 { 
+    background-color: lemonchiffon;
+
+}
+.section-2 {
+    background-color: lightgreen;
+    
+}
+
+.section-3 {
+    background-color: lightblue;
+    
+}
+
+.section-4 { 
+    background-color: darkblue;
+    
+}
+
+.section-4 h2,
+.section-4 p {color: white;}
+
+.section-5 {
+    background-color: lightcoral;
+    
+}

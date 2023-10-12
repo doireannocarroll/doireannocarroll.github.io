@@ -21,7 +21,7 @@ input, button, textarea, select { font: inherit }
  body { background-color: lightgreen; }
  
 /* ================= ENDS ================ */
-
+body { background-color: lightgreen; } 
 body {
     text-align: center;
     font-family: sans-serif;
