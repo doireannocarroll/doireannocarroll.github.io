@@ -6,10 +6,10 @@ header h2 { font-size: var(--font-size-xxl) }
 
 header h1, header h2 { letter-spacing: -1px }
 
-
-.section-selector-1 > p { color: var(--purple-800) }
 .section-selector-1 p.bigger-desktop { font-size: var(--font-size-xl) }
-.section-selector-1 p.bigger-mobile {font-size: var(--font-size-lg) }   
+.section-selector-1 p.bigger-mobile { font-size: var(--font-size-lg) }
+.section-selector-1 > p { color: var(--purple-800) }
+
 
 .cols-2-half .col-2 h2 {
     font-size: var(--font-size-xxl);
@@ -20,7 +20,8 @@ header h1, header h2 { letter-spacing: -1px }
 }
 
 .cols-2-half .col-2 h2,
-.cols-2-half .col-2 p { letter-spacing: 1px }
+.cols-2-half .col-2 p { letter-spacing: 1px } 
+
 .section-selector-2 { background-color: var(--pink-200) }
 .section-selector-2 h2 { color: var(--red-700) }
 
